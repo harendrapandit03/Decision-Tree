@@ -1,3 +1,2 @@
 ## Decision-Tree
-Not completed Yet,\
-But will soon 
+Deployed using scikit-learn Library.
